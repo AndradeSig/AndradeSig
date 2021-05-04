@@ -14,7 +14,6 @@ Languages i use:
 <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" width="58px" align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="38px" align="center">
 <img src="https://www.php.net/images/logos/new-php-logo.svg" width="58px" align="center">
- <img src="https://docs.microsoft.com/pt-br/windows/images/csharp-logo.png" width="54px" align="center">
 ####
 Others:
 <br/>
