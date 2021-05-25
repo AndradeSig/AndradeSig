@@ -1,7 +1,7 @@
 # ANDRADE SIG
  🖥️ print("Welcome to my Profile!");  🖥️
 ----
-Main Language: <img src="https://camo.githubusercontent.com/d5f592e1e9c551c659ff28ebe4cef243d5351b68db998cfba5a8f42c9576bc71/68747470733a2f2f6c6f676f73706e672e6f72672f646f776e6c6f61642f6a6176612f6c6f676f2d6a6176612d3235362e706e67" width="58px" align="center">
+Main Language: <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="58px" align="center">
 ####
 Student passionate about programming and mathematics.
 <br/>
