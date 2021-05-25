@@ -11,8 +11,7 @@ I program in several languages, but I am a lover of Java, and for sure it is my 
 ####
 Languages i use:
 <br/>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-<i class="devicon-java-plain"></i>
+<img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="38px" align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="42px" align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="38px" align="center">
 #####
