@@ -7,7 +7,7 @@ Student passionate about programming and mathematics. 😶‍🌫️
 <br/>
 I program variable systems, algorithms, websites and games. 👾
 <br/>
-I am currently studying and loving Computer Graphics 😁
+I am currently studying and loving Computer Graphics using OpenGL and C++ 😁
 ####
 Languages i use:
 <br/>
