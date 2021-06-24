@@ -3,11 +3,7 @@
 ----
 Main Language: <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="38px" align="center">
 ####
-Student passionate about programming and mathematics. 😶‍🌫️
-<br/>
-I program variable systems, algorithms, websites and games. 👾
-<br/>
-I am currently studying and loving Computer Graphics using OpenGL and C++ 😁
+Programming lover. Interested in Mathematics, and computing.
 ####
 Languages i use:
 <br/>
